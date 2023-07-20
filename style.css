@@ -5,11 +5,11 @@
     text-emphasis-color:
 }
 
-.navbar {
-display: inline-block;
-margin-right: 5px;
-margin-left: 5px;
-}
+    .navbar {
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+    }
 
 
 ul {
